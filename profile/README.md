@@ -26,17 +26,16 @@ pick you.
 | **[Time](https://github.com/honestrobin/time)** | Time tracking and invoicing for freelancers and agencies, with e-invoicing built in and an importer for Harvest | Version 1 built, not released yet. Run it yourself with Docker |
 | **Credits** | Credits and usage limits for people who sell AI products | A specification so far, with no product code |
 
-## Built by Claude, and we say so
+## Built by Claude
 
 The code, tests and docs are written by Claude, Anthropic's AI, with many agents working at the
 same time. Marko Kruljac writes the specification, knows the architecture and decides what gets
 built. Every commit Claude wrote says so, and every decision someone might question is written
 down with its reasoning. Version 1 of Time took four days.
 
-One person can't read 40,000 lines, and we won't pretend otherwise. No person has read the code
-yet, and it hasn't had an independent security audit, so treat Time as pre-release software.
-Before a release the maintainer tests the product and reviews samples of the code, and AI agents
-make most of the corrections.
+No person has read the code yet, and it hasn't had an independent security audit, so treat Time
+as pre-release software. The maintainer will not read every line before a release either: he will
+test the product and review samples of the code, and AI agents make most of the corrections.
 
 ## Say hello
 
