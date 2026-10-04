@@ -31,7 +31,7 @@ pick you.
 The code, tests and docs are written by Claude, Anthropic's AI, with many agents working at the
 same time. Marko Kruljac writes the specification, knows the architecture and decides what gets
 built. Every commit Claude wrote says so, and every decision someone might question is written
-down with its reasoning. Version 1 of Time took four days.
+down with its reasoning.
 
 Before a release the maintainer will test the product and review samples of the code, and AI
 agents make most of the corrections. That review isn't done yet, and neither is an independent
