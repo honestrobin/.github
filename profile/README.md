@@ -1,10 +1,15 @@
-<img src="robin.svg" alt="The Honest Robin, one wing raised and one on its heart" width="120" align="right">
+<p align="center">
+  <img src="robin.svg" alt="The Honest Robin, one wing raised and one on its heart" width="110">
+</p>
 
-# Honest Robin
+<h1 align="center">Honest Robin</h1>
 
-Open-source tools for small teams. Most software gets worse after you move in. We're building
-ours differently. More at **[honestrobin.com](https://honestrobin.com)**, including the
-[Robin's Code](https://honestrobin.com/code): the promises every product is measured against.
+<p align="center">
+  Open-source tools for small teams. Most software gets worse after you move in. We're building
+  ours differently. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
+  the <a href="https://honestrobin.com/code">Robin's Code</a>: the promises every product is
+  measured against.
+</p>
 
 **Honest.** We never mislead, and we tell you things before you have to ask: prices, limits,
 mistakes, and how the software is made. **A joy to use.** Professional, and a little playful. No
