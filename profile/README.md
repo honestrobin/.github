@@ -14,9 +14,8 @@
 </p>
 
 **A joy to use.** A lot of work software became awful to use. We want it to be a joy again: tools
-that stay out of your way and have no opinion on how you do your work. **Honest.** We don't mislead
-you, and we tell you things before you have to ask: prices, limits, mistakes, and how the software
-is made. **You come first.** When what's good for us and what's good for you are not the same, we
+that stay out of your way and have no opinion on how you do your work. **Honest.** We don't lie
+to you and we don't trick you. Ask us a straight question and you get a straight answer. **You come first.** When what's good for us and what's good for you are not the same, we
 pick you.
 
 ## Products
