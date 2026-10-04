@@ -33,9 +33,9 @@ same time. Marko Kruljac writes the specification, knows the architecture and de
 built. Every commit Claude wrote says so, and every decision someone might question is written
 down with its reasoning. Version 1 of Time took four days.
 
-No person has read the code yet, and it hasn't had an independent security audit, so treat Time
-as pre-release software. The maintainer will not read every line before a release either: he will
-test the product and review samples of the code, and AI agents make most of the corrections.
+Before a release the maintainer will test the product and review samples of the code, and AI
+agents make most of the corrections. That review isn't done yet, and neither is an independent
+security audit, so treat Time as pre-release software.
 
 ## Say hello
 
