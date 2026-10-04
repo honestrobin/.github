@@ -8,7 +8,7 @@
 
 <p align="center">
   Open-source tools for small teams. Most software gets worse after you move in. We're building
-  ours to stay a joy to use. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
+  ours to change that. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
   the <a href="https://honestrobin.com/code">Robin's Code</a>: the promises every product has to
   keep.
 </p>
