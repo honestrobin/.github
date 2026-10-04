@@ -32,8 +32,8 @@ same time. Marko Kruljac writes the specification, knows the architecture and de
 built. Every commit Claude wrote says so, and every decision someone might question is written
 down with its reasoning.
 
-Before a release the maintainer will test the product and review samples of the code, and AI
-agents make most of the corrections. That review isn't done yet, and neither is an independent
+Before a release the maintainer will test the product, review the full architecture and read most
+of the code, and AI agents make most of the corrections. That review isn't done yet, and neither is an independent
 security audit, so treat Time as pre-release software.
 
 ## Say hello
