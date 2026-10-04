@@ -4,38 +4,43 @@
 
 <h1 align="center">Honest Robin</h1>
 
-<p align="center"><i>Built with agents, for people and their agents.</i></p>
+<p align="center"><i>A joy to use. Honest. You come first.</i></p>
 
 <p align="center">
-  Open-source tools for small teams. Most software gets worse after you move in. We're building
-  ours differently. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
-  the <a href="https://honestrobin.com/code">Robin's Code</a>: the promises every product is
-  measured against.
+  Open-source tools for small teams. Most software gets worse after you move in. We wrote down
+  what we won't do. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
+  the <a href="https://honestrobin.com/code">Robin's Code</a>: the promises every product has to
+  keep.
 </p>
 
-**Honest.** We never mislead, and we tell you things before you have to ask: prices, limits,
-mistakes, and how the software is made. **A joy to use.** Professional, and a little playful. No
-tricks, no nagging, no corporate language, and no AI for its own sake. **You come first.** When
-what's good for us and what's good for you pull apart, we pick you.
+**A joy to use.** A lot of work software became awful to use. We want to make it fun again: tools
+that stay out of your way and have no opinion on how you do your work. **Honest.** We don't mislead
+you, and we tell you things before you have to ask: prices, limits, mistakes, and how the software
+is made. **You come first.** When what's good for us and what's good for you are not the same, we
+pick you.
 
 ## Products
 
 | | What | Where it stands |
 |---|---|---|
 | **[Time](https://github.com/honestrobin/time)** | Time tracking and invoicing for freelancers and agencies, with e-invoicing built in and an importer for Harvest | Version 1 built, not released yet. Run it yourself with Docker |
-| **Credits** | Credits and usage limits for AI products | In the works. The code isn't public yet |
+| **Credits** | Credits and usage limits for people who sell AI products | A specification so far, with no product code |
 
 ## Built by Claude, and we say so
 
-The code, tests and docs are written by Claude, Anthropic's AI, working in Claude Code. Marko
-Kruljac, the maintainer, writes the specification and makes the decisions. Every commit is
-co-authored by Claude, and every decision someone might question is written down with its
-reasoning. Version 1 of Time took four days. It hasn't had an independent security audit yet,
-so treat it as pre-release software.
+The code, tests and docs are written by Claude, Anthropic's AI, with many agents working at the
+same time. Marko Kruljac writes the specification, knows the architecture and decides what gets
+built. Every commit Claude wrote says so, and every decision someone might question is written
+down with its reasoning. Version 1 of Time took four days.
+
+One person can't read 40,000 lines, and we won't pretend otherwise. No person has read the code
+yet, and it hasn't had an independent security audit, so treat Time as pre-release software.
+Before a release the maintainer tests the product and reviews samples of the code, and AI agents
+make most of the corrections.
 
 ## Say hello
 
-[hello@honestrobin.com](mailto:hello@honestrobin.com). Spotted something wrong? Open an issue, or
-write to us.
+[hello@honestrobin.com](mailto:hello@honestrobin.com). If you find something wrong, open an issue
+or write to us.
 
 <sub>Claude and Anthropic are trademarks of Anthropic. Honest Robin isn't affiliated with or endorsed by Anthropic.</sub>
