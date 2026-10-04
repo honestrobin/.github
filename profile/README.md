@@ -7,13 +7,13 @@
 <p align="center"><i>A joy to use. Honest. You come first.</i></p>
 
 <p align="center">
-  Open-source tools for small teams. Most software gets worse after you move in. We wrote down
-  what we won't do. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
+  Open-source tools for small teams. Most software gets worse after you move in. We're building
+  ours to stay a joy to use. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
   the <a href="https://honestrobin.com/code">Robin's Code</a>: the promises every product has to
   keep.
 </p>
 
-**A joy to use.** A lot of work software became awful to use. We want to make it fun again: tools
+**A joy to use.** A lot of work software became awful to use. We want it to be a joy again: tools
 that stay out of your way and have no opinion on how you do your work. **Honest.** We don't mislead
 you, and we tell you things before you have to ask: prices, limits, mistakes, and how the software
 is made. **You come first.** When what's good for us and what's good for you are not the same, we
