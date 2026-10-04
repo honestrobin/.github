@@ -4,6 +4,8 @@
 
 <h1 align="center">Honest Robin</h1>
 
+<p align="center"><i>Built with agents, for people and their agents.</i></p>
+
 <p align="center">
   Open-source tools for small teams. Most software gets worse after you move in. We're building
   ours differently. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
