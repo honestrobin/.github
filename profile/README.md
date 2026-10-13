@@ -17,6 +17,13 @@
 **[Time](https://github.com/honestrobin/time)** is time tracking for freelancers first, then small
 teams. Version 1 is built, but not released yet. You can run it yourself with Docker.
 
+## Free tools
+
+**[QR](https://github.com/honestrobin/qr)** makes a QR code that's yours to keep, free at
+[qr.honestrobin.com](https://qr.honestrobin.com). The code opens your link directly, not through
+us, and we never see what you type.
+
+
 ## Built by Claude
 
 Claude, Anthropic's AI, writes the code and the docs, with many agents working at once. Marko
