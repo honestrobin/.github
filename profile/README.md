@@ -4,38 +4,24 @@
 
 <h1 align="center">Honest Robin</h1>
 
-<p align="center"><i>A joy to use. Honest. You come first.</i></p>
+<p align="center"><i>Most software gets worse after you move in. We're building ours differently.</i></p>
 
 <p align="center">
-  Open-source tools for small teams. Most software gets worse after you move in. We're building
-  ours to change that. More at <a href="https://honestrobin.com"><b>honestrobin.com</b></a>, including
-  the <a href="https://honestrobin.com/code">Robin's Code</a>: the promises every product has to
-  keep.
+  Small, open-source tools, each with its promises in writing: the
+  <a href="https://honestrobin.com/code">Robin's Code</a>. More at
+  <a href="https://honestrobin.com"><b>honestrobin.com</b></a>.
 </p>
 
-**A joy to use.** A lot of work software became awful to use. We want it to be a joy again: tools
-that stay out of your way and have no opinion on how you do your work. **Honest.** We don't lie
-to you and we don't trick you. Ask us a straight question and you get a straight answer. **You come first.** When what's good for us and what's good for you are not the same, we
-pick you.
+## Time
 
-## Products
-
-| | What | Where it stands |
-|---|---|---|
-| **[Time](https://github.com/honestrobin/time)** | Time tracking and invoicing for freelancers and agencies, with e-invoicing built in and an importer for Harvest | Version 1 built, not released yet. Run it yourself with Docker |
-| **Credits** | Credits and usage limits for people who sell AI products | A specification so far, with no product code |
+**[Time](https://github.com/honestrobin/time)** is time tracking for freelancers first, then small
+teams. Version 1 is built, but not released yet. You can run it yourself with Docker.
 
 ## Built by Claude
 
-The code, tests and docs are written by Claude, Anthropic's AI, with many agents working at the
-same time. Marko Kruljac writes the specification, knows the architecture and decides what gets
-built. Every commit Claude wrote says so, and every decision someone might question is written
-down with its reasoning.
-
-Before a release the maintainer will test the product, review the full architecture and read the
-code that matters most (invoices and payments, your data, and who can see what), and AI agents
-make most of the corrections. That review isn't done yet, and neither is an independent
-security audit, so treat Time as pre-release software.
+Claude, Anthropic's AI, writes the code and the docs, with many agents working at once. Marko
+Kruljac gives the instructions, decides what gets built, tests the products and approves every
+release. Every commit says who wrote it.
 
 ## Say hello
 
